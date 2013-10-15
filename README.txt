@@ -1,7 +1,7 @@
 This library holds most of the distributions found in the GB family (refer to Gbdistributiontree). The most flexible distribution included, the GB, takes 5 parameters
 a, b, c, p, q. All the rest of these distributions are special cases of the GB, and take on 4 or less parameters. 
 
-Included distributions with their required parameters:
+Included distributions with their required parameters (These can be found in the gb2library.py):
 
 *Gb(a, b, c, p, q)      Generalized Beta
 Gb1(a, b, p, q)         Generalized Beta of the 1st kind
